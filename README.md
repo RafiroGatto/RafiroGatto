@@ -1,4 +1,4 @@
-Hello there, I’m @RafiroGatto student of cybersecurity and especially pentesting.
+Hello there, I’m @RafiroGatto student of cybersecurity especially the pentesting side.
 
 <!---
 RafiroGatto/RafiroGatto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

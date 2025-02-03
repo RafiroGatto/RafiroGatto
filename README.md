@@ -11,7 +11,6 @@ I'm an italian student with a deep passion for IT and computer science, interest
 <img align="left" alt="Filezilla" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
 <img align="left" alt="UnrealEngine" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/unrealengine/unrealengine-original.svg" />
-<img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/premierepro/premierepro-original.svg" />
 <img align="left" alt="StackOverFlow" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/stackoverflow/stackoverflow-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
 <img align="left" alt="SSH" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ssh/ssh-original.svg" />
@@ -23,7 +22,6 @@ I'm an italian student with a deep passion for IT and computer science, interest
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
 

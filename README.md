@@ -2,7 +2,7 @@
 
 **`Pentester (Gatto/Fiero)`**
 
-I'm an italian student with a deep passion for IT and computer science, interests I've nurtured since childhood. I'm continually honing my skills in ethical hacking and penetration testing. Always seeking new challenges and opportunities to grow in these fields. In addition to pentesting I also worked with Unreal Engine and other interesting stuff.
+I'm an italian student with a deep passion for IT and computer science, interests I've nurtured since childhood. In addition to pentesting I also worked with Unreal Engine and other interesting stuff.
 
 ### 🆘 Languages and Tools
 
